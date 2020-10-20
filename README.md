@@ -6,10 +6,12 @@ This application allows users to track workout data over time to better manage t
 
 ### Technologies
 
-. HTML
-. CSS
-. Bootstrap
-. Javascript
-. node.js
-. MongoDB / Mongoose
-. Express.js
+HTML
+CSS
+Bootstrap
+Javascript
+Node.js
+MongoDB / Mongoose
+Express.js
+
+Deployed link: https://calm-anchorage-59085.herokuapp.com/exercise?id=5f8e6d543d74df0017a659a3
